@@ -1,29 +1,15 @@
 ---
 layout: post
-title: Another Post Example
-author: ExchangeRate-API
-date: 2016-09-06
+title: Online teaching
+author: Roya Choupani
+date: 2020-04-30
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac.
+Due to COVID-19 pandemic all of my courses are now online. I have been using Zoom, Google Classroom, and Moodle to reach students.
 
-# Header
+# Online Teaching
 
-# Header 1
-
-## Header 2
-
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
-
-Some example text, okay? It's normal, right? :)
-
-There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable. If you are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the middle of text. All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+There are many challenges in teaching online. But, so far I have been doing very well.
 
 **bold text**
 
