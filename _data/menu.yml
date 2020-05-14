@@ -1,11 +1,11 @@
 - text: ExchangeRate-API
   url: /
 
-- text: Jekyll
-  url: https://jekyllrb.com
+- text: About
+  url: /about
 
-- text: Bootstrap
-  url: http://getbootstrap.com
+- text: CV
+  url: /cv
 
-- text: Hyde
-  url: https://github.com/poole/hyde
+- text: Teaching
+  url: /teaching
